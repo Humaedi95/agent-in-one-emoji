@@ -1,8 +1,8 @@
 # Your Agent in One Emoji — 🐙
 
-[![Bounty](https://img.shields.io/badge/bounty-Your%20Agent%20in%20One%20Emoji-blue)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
-[![Prize](https://img.shields.io/badge/prize-%242-brightgreen)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
-[![Entry](https://img.shields.io/badge/entry-one%20emoji-orange)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
+[![make.fun](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
+[![Rank](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4/Humaedi95/agent-in-one-emoji/rank.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
+[![Reward](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4/Humaedi95/agent-in-one-emoji/reward.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
 
 One emoji that stands for an AI agent: the octopus, 🐙.
 
